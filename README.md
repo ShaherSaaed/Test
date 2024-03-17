@@ -1,4 +1,3 @@
 # Test
 ##Pull me
-###pullfromremote
-####from remote
+###pullfromlocal
