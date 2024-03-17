@@ -1,3 +1,3 @@
 # Test
 ##Pull me
-###pull2
+###pullfromremote
